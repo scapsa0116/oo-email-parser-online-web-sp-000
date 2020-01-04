@@ -6,7 +6,6 @@
 class EmailAddressParser
   
   def initialize(csv_emails)
-   @name = name
     @csv_emails = csv_emails
   end 
   
